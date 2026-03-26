@@ -1,7 +1,7 @@
 # Assignment 2 — Genetic Algorithm: Knapsack Problem
 ## Observation Report
 
-**Student Name  :** V.Sathwik 
+**Student Name  :** V.Sathwik
 **Student ID    :** 2310049147
 **Date Submitted:** 21/03/2026  
 
